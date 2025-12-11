@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 140" role="img" aria-labelledby="title desc">
+  <title id="title">Roomer logo</title>
+  <desc id="desc">Soft pink circle with the word Roomer in blue serif text.</desc>
+  <circle cx="90" cy="70" r="65" fill="#f8d7d7"/>
+  <text x="90" y="80" text-anchor="middle" font-family="Georgia, serif" font-size="48" fill="#37506a">Roomer</text>
+</svg>
+
